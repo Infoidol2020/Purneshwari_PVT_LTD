@@ -1,0 +1,18 @@
+.me-auto{
+    margin-left: 38vw;
+}
+.home-tab{
+    width: 8vw !important;
+    color:brown !important;
+}
+.service-tab{
+    width: 8vw !important;
+    color:brown !important;
+}
+.project-tab{
+    width: 8vw !important;
+    /* color:brown !important; */
+}
+a#basic-nav-dropdown {
+    color: brown;
+}

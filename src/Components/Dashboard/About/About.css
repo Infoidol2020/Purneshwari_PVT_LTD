@@ -1,0 +1,49 @@
+.about-flex{
+    display: flex;
+    width: 87%;
+    margin: 0 auto;
+    justify-content: space-evenly;
+
+}
+.about-wrap{
+    background: url('../../../assests/bgMinning.jfif');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 2rem;
+
+}
+.about-turning{
+    color: white;
+    margin-bottom: -3rem;
+    margin-left: 0.5vw;
+    font-size: 34px;
+    font-weight: bold;
+}
+.bigIdeas{
+    /* color:goldenrod; */
+    color: #ffdb60;
+    margin-bottom: -2rem;
+    font-size: 100px;
+    font-weight: 800;
+}
+.great{
+    color: white;
+    font-size: 34px;
+    font-weight: bold;
+    margin-left: 0.5vw;
+
+}
+.personimg{
+    border: 14px solid #ffdb60;
+    margin-left: 20vw;
+    
+}
+.personimg img{
+    margin-top: 2vh;
+    margin-left: -4vw;
+    margin-right: 1vw;
+    height: 37.8vw;
+}
+.container1{
+    padding-top: 6rem;
+}
