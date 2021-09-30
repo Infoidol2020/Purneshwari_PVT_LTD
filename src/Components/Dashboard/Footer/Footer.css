@@ -1,0 +1,63 @@
+.footer-flex1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer-icon-img{
+    width: 29vw;
+    height: 45vh;
+}
+.footer-add-image{
+    width: 36vw;
+    height: 45vh;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.footer-wrap{
+    background: #4a5463;
+    padding: 1rem;
+
+}
+.footer-aboutUs{
+    width: 25vw;
+}
+.footer-aboutUsp1{
+    color: #ffdb60;
+    font-size: 36px;
+    font-family: Aller;
+    font-weight: 700;
+}
+.footer-aboutUsp2{
+    color: white;
+    font-size: 19px;
+    text-align: justify;
+}
+.footer-flex2{
+    display: flex;
+    color: #ffdb60;
+    justify-content: space-evenly;
+    margin-top: 5vh;
+
+}
+.footer-fb{
+    height: 7vh;
+    width: 10vw;
+    font-size: 21px;
+    text-align: center;
+    padding: 0.5rem;
+    cursor: pointer;
+}
+.facebook-icon{
+    font-size: 35px;
+}
+.footer-loc{
+    width: 28vw;
+    font-size: 20px;
+}
+.footer-call{
+    width: 9vw;
+    height: 8vh;
+    font-size: 18px;
+}
+.footer-mail{
+    font-size: 20px;
+}

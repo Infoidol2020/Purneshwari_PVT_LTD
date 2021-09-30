@@ -1,18 +1,47 @@
 .me-auto{
-    margin-left: 38vw;
+    margin-left: 58vw;
 }
+.bg-light {
+    --bs-bg-opacity: 1;
+    background-color:#ffdb60 !important;
+    /* background: #ffdb60 !important; */
+}
+.container{
+    background: #ffdb60 !important;
+    max-width: inherit !important;
+}
+/* .Nav-con{
+    background:#ffdb60;
+} */
 .home-tab{
-    width: 8vw !important;
-    color:brown !important;
+    width: 12vw !important;
+    color:#ffdb60 !important;
+    font-size: 23px;
+    display: flex !important;
 }
 .service-tab{
-    width: 8vw !important;
-    color:brown !important;
+    width: 10vw !important;
+    color:#ffdb60 !important;
+    font-size: 23px;
+    display: flex !important;
 }
 .project-tab{
     width: 8vw !important;
-    /* color:brown !important; */
+    /* color:#ffdb60 !important; */
 }
 a#basic-nav-dropdown {
-    color: brown;
+    color: #ffdb60;
+    font-size: 23px;
+}
+.icon{
+    width: 7vw;
+    height: 11vh;
+    margin-left: 4vw;
+    border-radius: 142px;
+}
+div#basic-navbar-nav {
+    background: #2c3238;
+    width: 87.1vw;
+    position: absolute;
+    margin-left: 11vw;
 }

@@ -1,0 +1,43 @@
+.spc-wrap{
+    background: url(../../../assests/cutting.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    /* margin-bottom: 5vh; */
+}
+.spc-IB{
+    /* display: inline-block; */
+    margin-left: 47vw;
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+}
+.spc-IB p{
+    border: 1px solid #ffdb60;
+    color: #ffdb60;
+    box-shadow: 5px 10px 16px #ffdb60;
+    width: 20vw;
+    display: inline-block;
+    height: 20vh;
+    text-align: center;
+    padding: 1rem;
+    margin-bottom: 5vh;
+    margin-left: 3vw;
+    border-radius: 11px;
+    font-size: 20px;
+    font-weight: 500;
+    padding-top: 7vh;
+    cursor: grab;
+}
+.spc-p1{
+    color: #ffdb60;
+    font-size: 43px;
+    font-weight: inherit;
+    font-family: auto;
+    padding-top: 4rem;
+    margin-left: 61vw;
+}
+.spc-IB p:hover{
+    color: lightgoldenrodyellow;
+    /* transform: matrix(0.866,0.5,-0.5,0.866,0,0); */
+    transform: rotate(1deg);
+    font-size: 23px;
+}
