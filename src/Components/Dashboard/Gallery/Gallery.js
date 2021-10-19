@@ -56,12 +56,6 @@ const Gallery = () => {
               <div>
               <img className="gallery_img" src={image8} alt="brokenimage" />
              </div>
-                
-                
-                
-                
-
-
              </Slider>
         </div>
     )

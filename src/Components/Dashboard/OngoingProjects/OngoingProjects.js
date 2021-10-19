@@ -16,7 +16,7 @@ const OngoingProjects = () => {
                     </div>
                     <div class="flip-box-back">
                         <h2 className="flip-heading">At Jaldon</h2>
-                        <p className="loc-des">Drilling, Blasting, Loading, agreement for Supplying 500m size of stone to M/S RKD constructions (P) Ltd. for rehabilitation and UP-gradation of existing stone to tour lining at koida to Rajamanda section of NH-215 (New NH-520) in state of odisha, under NHDP, phase-3- pacnge-3 at Jaldon</p>
+                        <p className="loc-des">Drilling, Blasting, Loading, agreement for Supplying 500m size of stone to M/S RKD constructions (P) Ltd. for rehabilitation and UP-gradation of existing stone to tour lining at koida to Rajamanda section of NH-215 (New NH-520) in state of odisha, under NHDP, phase-3- pacnge-3 at Jaldon.</p>
                     </div>
                 </div>
             </div>
@@ -29,7 +29,7 @@ const OngoingProjects = () => {
                     </div>
                     <div class="flip-box-back">
                         <h2 className="flip-heading">At K-Baloy</h2>
-                        <p className="loc-des">Drilling, Primary and Secondary Blasting, loading, agreement for Supplying 500m size of stone to M/S RKD constructions (P) Ltd. for rehabilitation and UP-gradation of existing stone to tour lining at koida to Rajamanda section of NH-215 (New NH-520) in state of odisha, under NHDP, phase-3- pacnge-3 at K-Baloy </p>
+                        <p className="loc-des">Drilling, Primary and Secondary Blasting, loading, agreement for Supplying 500m size of stone to M/S RKD constructions (P) Ltd. for rehabilitation and UP-gradation of existing stone to tour lining at koida to Rajamanda section of NH-215 (New NH-520) in state of odisha, under NHDP, phase-3- pacnge-3 at K-Baloy.</p>
                     </div>
                 </div>
             </div>
@@ -44,7 +44,7 @@ const OngoingProjects = () => {
                     </div>
                     <div class="flip-box-back">
                         <h2 className="flip-heading">At Chuna-Ghati</h2>
-                        <p className="loc-des">Earth work in cutting( Hard rock,Soft rock, required drilling, Blasting, Loading, Transporting), agreement for Supplying 500m size of stone to M/S RKD constructions (P) Ltd. for rehabilitation and UP-gradation of existing stone to tour lining at koida to Rajamanda section of NH-215 (New NH-520) in state of odisha, under NHDP, phase-3- pacnge-3 at Chuna-Ghati</p>
+                        <p className="loc-des">Earth work in cutting(Hard rock, Soft rock, required drilling, Blasting, Loading, Transporting), agreement for Supplying 500m size of stone to M/S RKD constructions (P) Ltd. for rehabilitation and UP-gradation of existing stone to tour lining at koida to Rajamanda section of NH-215 (New NH-520) in state of odisha, under NHDP, phase-3- pacnge-3 at Chuna-Ghati.</p>
                     </div>
                 </div>
             </div>
@@ -56,7 +56,7 @@ const OngoingProjects = () => {
                     </div>
                     <div class="flip-box-back">
                         <h2 className="flip-heading">At Kalta</h2>
-                        <p className="loc-des">Earth work in Cutting and Filling agreement for Supplying 500m size of stone to M/S RKD constructions (P) Ltd. for rehabilitation and UP-gradation of existing stone to tour lining at koida to Rajamanda section of NH-215 (New NH-520) in state of odisha, under NHDP, phase-3- pacnge-3 at Kalta</p>
+                        <p className="loc-des">Earth work in Cutting and Filling agreement for Supplying 500m size of stone to M/S RKD constructions (P) Ltd. for rehabilitation and UP-gradation of existing stone to tour lining at koida to Rajamanda section of NH-215 (New NH-520) in state of odisha, under NHDP, phase-3- pacnge-3 at Kalta.</p>
                     </div>
                 </div>
             </div>

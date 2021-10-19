@@ -1,16 +1,36 @@
-import React from 'react'
+import React,{useState} from 'react'
 import IconImage from '../../../assests/icon.jpeg'
 import address from '../../../assests/adddress.png'
 import MailIcon from '@material-ui/icons/Mail';
 import CallIcon from '@material-ui/icons/Call';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import LocationOnIcon from '@mui/icons-material/LocationOn';
+import ArrowUpwardIcon from '@mui/icons-material/ArrowUpward';
 import {Link} from 'react-router-dom'
 
 
 import './Footer.css'
 
 const Footer = () => {
+   const [visible, setVisible] = useState(false)
+  
+  const toggleVisible = () => {
+    const scrolled = document.documentElement.scrollTop;
+    if (scrolled > 300){
+      setVisible(true)
+    } 
+    else if (scrolled <= 300){
+      setVisible(false)
+    }
+  };
+    const handleScrool = () =>{
+         window.scrollTo({
+      top: 0, 
+      behavior: 'smooth'
+      /* you can also use 'auto' behaviour
+         in place of 'smooth' */
+    });
+  };
     const handleClick = () => {
         window.open("https://www.google.com/maps/search/TTT%2F10,+Civil+Township,,P.S-Raghunath+Palli,+Dist-Sundargarh,,Rourkela,Orissa,INDIA,769004/@22.2246609,84.811645,17z/data=!3m1!4b1");
       };
@@ -44,6 +64,7 @@ const handlefb = () => {
                 <p className="footer-loc"><LocationOnIcon/>&nbsp; TTT/10, Civil Township, P.S-Raghunath Palli, Dist-Sundargarh, Rourkela,Orissa,INDIA,769004</p>
             </div>
             <hr/>
+            <button className="scrol-top" onClick={handleScrool}><ArrowUpwardIcon/></button>
         </div>
     )
 }
