@@ -45,3 +45,88 @@ div#basic-navbar-nav {
     position: absolute;
     margin-left: 11vw;
 }
+
+@media only screen and (min-width:401px) and (max-width:500px){
+    .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        width: 100% !important;
+        margin-left: 0px !important;
+    }
+    .icon {
+        width: 18vw;
+        height: 8vh;
+        margin-left: 0px;
+    }
+    .me-auto {
+        margin-left: 5vw !important;
+    }
+    div#basic-navbar-nav {
+        background: #2c3238;
+        width: 52.6vw;
+        position: absolute;
+        margin-top: 22vh;
+        margin-left: 45vw;
+    }
+    .nav-link {
+        padding: 0.1rem 1rem !important;
+    }
+    .bg-light {
+        
+        width: 100% !important;
+    }
+}
+@media only screen and (min-width:321px) and (max-width:400px){
+    .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        width: 100% !important;
+        margin-left: 0px !important;
+    }
+    .icon {
+        width: 18vw;
+        height: 8vh;
+        margin-left: 0px;
+    }
+    .me-auto {
+        margin-left: 0vw !important;
+    }
+    div#basic-navbar-nav {
+        background: #2c3238;
+        width: 51.6vw;
+        position: absolute;
+        margin-top: 22vh;
+        margin-left: 45vw;
+    }
+    .nav-link {
+        padding: 0.1rem 1rem !important;
+    }
+    .bg-light {
+        
+        width: 100% !important;
+    }
+}
+@media only screen and (max-width:320px){
+    .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        width: 100% !important;
+        margin-left: 0px !important;
+    }
+    .icon {
+        width: 18vw;
+        height: 8vh;
+        margin-left: 0px;
+    }
+    .me-auto {
+        margin-left: 0vw !important;
+    }
+    div#basic-navbar-nav {
+        background: #2c3238;
+        width: 50.9vw;
+        position: absolute;
+        margin-top: 22vh;
+        margin-left: 45vw;
+    }
+    .nav-link {
+        padding: 0.1rem 1rem !important;
+    }
+    .bg-light {
+        
+        width: 100% !important;
+    }
+}

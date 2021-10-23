@@ -65,3 +65,70 @@
     margin-left: 92vw;
     background: #ffdb60;
 }
+
+@media only screen and (max-width:500px){
+    .footer-wrap {
+        width: 100%;
+    }
+    .footer-flex1 {
+        display: block;
+    }
+    .footer-flex2 {
+        display: block;
+        margin-top: 3vh;
+    }
+    .footer-icon-img {
+        width: 91vw;
+        height: 44vh;
+    }
+    .footer-aboutUs{
+        width: 90vw;
+    }
+    .footer-aboutUsp1 {
+        margin-top: 1vh;
+        font-size: 32px;
+    }
+    .footer-aboutUsp2{
+        font-size: 18px;
+
+    }
+    .footer-add-image{
+        width: 91vw;
+        height: 48vh;
+        margin-top: 2vh;
+    }
+    .footer-fb {
+        display: flex;
+        height: 7vh;
+        width: 11vw;
+        font-size: 18px;
+    }
+    .footer-call {
+        width: 9vw;
+        height: 8vh;
+        margin-top: -4vh;
+        font-size: 16px;
+        margin-left: 2vw;
+    }
+    .footer-call1{
+        margin-bottom: 0rem !important;
+    display: flex;
+    }
+    .footer-call2{
+        display: flex;
+    }
+    .footer-mail {
+        font-size: 18px;
+        margin-left: 2vw;
+    }
+    .footer-loc {
+        width: 73vw;
+        font-size: 18px;
+        margin-top: -2vh;
+        margin-left: 2vw;
+    }
+    .scrol-top {
+        margin-left: 80vw;
+        background: #ffdb60;
+    }
+}

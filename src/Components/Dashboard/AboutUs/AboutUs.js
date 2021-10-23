@@ -16,7 +16,7 @@ const AboutUs = () => {
                     This Firm is operating for more than two decades.</p>
                     {/* <p className="au-p2">This Firm is operating for more than two decades</p> */}
                     <p className="au-p3">PPPL was incorparated in <strong>03 November 2014</strong>, before that it was working as M/S Neeraj Panday & CO.</p>
-                    <p>Directors</p>
+                    <p className="au-dire">Directors</p>
                     <ul className="au-ul">
                         <li>Neeraj Kumar Pandey (03 Nov 2014)</li>
                         <li>Manjary  Pandey (03 Nov 2014)</li>

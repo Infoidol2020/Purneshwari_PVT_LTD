@@ -42,3 +42,29 @@ button.slick-arrow.slick-next::before {
     font-family: auto;
     padding: 2vh;
   }
+
+  @media only screen and (max-width:500px){
+    .gallery-heading {
+      font-size: 33px;
+  }
+    .slick-list {
+      height: 46vh !important;
+      width: 100%;
+      margin-left: 1rem;
+      text-align: -webkit-center;
+      overflow-x: clip;
+      /* margin-top: 3.5vw; */
+  }
+  .gallery-wrap{
+    width: 100%;
+  }
+  .slick-slider {
+    width: 94%;
+    margin-top: -2vh;
+}
+.gallery_img {
+  width: 56vw;
+  height: 34vh;
+  margin-top: 3vh;
+}
+  }

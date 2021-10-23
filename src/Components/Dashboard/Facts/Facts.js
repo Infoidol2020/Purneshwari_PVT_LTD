@@ -26,7 +26,7 @@ const Facts = () => {
                                 130 <span className="facts-plus"> +</span>
                             </p>
                             <p className="facts-list">
-                            CONTRACTORS
+                            EMPLOYEES
                             </p>
                         </p>
                     </div>

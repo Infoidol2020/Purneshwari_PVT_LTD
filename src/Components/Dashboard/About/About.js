@@ -6,7 +6,7 @@ const About = () => {
     return (
         <div className="about-wrap">
             <div className="about-flex">
-                <section>
+                <section className="left-sec">
                     <p className="about-turning">TURNING</p>
                     <p className="bigIdeas">BIG IDEAS</p>
                     <p className="great">INTO GREAT PRODUCT</p>

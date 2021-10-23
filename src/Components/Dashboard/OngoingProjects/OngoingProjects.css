@@ -100,3 +100,173 @@
     letter-spacing: 0.01rem;
     font-family: Aller;
 }
+
+@media only screen and (min-width:401px) and (max-width:500px){
+  .OngoingProjects-wrapper {
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 100%;
+    padding-bottom: 5vh;
+}
+.OngoingProjects-title {
+  font-size: 29px;
+  margin-left: -4vw;
+  padding-top: 2vw;
+  font-weight: 500;
+  color: #ffdb60;
+}
+.ongoing-projects-container {
+  display: block;
+  width: 99%;
+  margin: 0 auto;
+}
+.flip-box {
+  background-color: transparent;
+  width: 93vw;
+  height: 44vh;
+  border: 1px solid #f1f1f1;
+  perspective: 1000px;
+  margin: 2vh 2.5vw;
+}
+.flip-heading {
+  text-decoration: underline;
+  font-family: 'Fredoka One', cursive;
+  color: black;
+  margin-left: 14rem;
+  margin-top: 1rem;
+  font-size: 23px;
+}
+.map-img {
+  height: 4rem;
+  width: 4rem;
+  opacity: 0.85;
+  margin-left: 14rem;
+}
+.break{
+  display: none;
+}
+.loc-des {
+  font-size: 18px;
+  text-align: justify;
+  margin-top: 3vh;
+  margin-left: 1vw;
+  color: #ffdb60;
+  margin-right: 1vw;
+  letter-spacing: 0.01rem;
+  font-family: Aller;
+}
+}
+
+@media only screen and (min-width:321px) and (max-width:400px){
+  .OngoingProjects-wrapper {
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 100%;
+    padding-bottom: 5vh;
+}
+.OngoingProjects-title {
+  font-size: 29px;
+  margin-left: -4vw;
+  padding-top: 2vw;
+  font-weight: 500;
+  color: #ffdb60;
+}
+.ongoing-projects-container {
+  display: block;
+  width: 99%;
+  margin: 0 auto;
+}
+.flip-box {
+  background-color: transparent;
+  width: 93vw;
+  height: 44vh;
+  border: 1px solid #f1f1f1;
+  perspective: 1000px;
+  margin: 2vh 2.5vw;
+}
+.flip-heading {
+  text-decoration: underline;
+  font-family: 'Fredoka One', cursive;
+  color: black;
+  margin-left: 10rem;
+  margin-top: 1rem;
+  font-size: 23px;
+}
+.map-img {
+  height: 4rem;
+  width: 4rem;
+  opacity: 0.85;
+  margin-left: 10rem;
+}
+.break{
+  display: none;
+}
+.loc-des {
+  font-size: 16.9px;
+  text-align: justify;
+  margin-top: 2vh;
+  margin-left: 1vw;
+  color: #ffdb60;
+  margin-right: 1vw;
+  letter-spacing: 0rem;
+  font-family: Aller;
+}
+
+}
+
+@media only screen and (max-width:320px){
+  .OngoingProjects-wrapper {
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 100%;
+    padding-bottom: 5vh;
+}
+.OngoingProjects-title {
+  font-size: 29px;
+  margin-left: -4vw;
+  padding-top: 2vw;
+  font-weight: 500;
+  color: #ffdb60;
+}
+.ongoing-projects-container {
+  display: block;
+  width: 99%;
+  margin: 0 auto;
+}
+.flip-box {
+  background-color: transparent;
+  width: 93vw;
+  height: 44vh;
+  border: 1px solid #f1f1f1;
+  perspective: 1000px;
+  margin: 2vh 2.5vw;
+}
+.flip-heading {
+  text-decoration: underline;
+  font-family: 'Fredoka One', cursive;
+  color: black;
+  margin-left: 5rem;
+  margin-top: 1rem;
+  font-size: 23px;
+}
+.map-img {
+  height: 4rem;
+  width: 4rem;
+  opacity: 0.85;
+  margin-left: 5rem;
+}
+.break{
+  display: none;
+}
+.loc-des {
+  font-size: 15.9px;
+  text-align: justify;
+  margin-top: 2vh;
+  margin-left: 1vw;
+  color: #ffdb60;
+  margin-right: 1vw;
+  letter-spacing: 0rem;
+  font-family: Aller;
+}
+
+}

@@ -14,8 +14,8 @@ const Mission = () => {
                         <p className="MV-content">Purpose of Our Organisation is to improve both the production and efficiency of work by meeting with client's expectational and delivering what we commit to them</p>
                     </section>
                     <section className="Mission">
-                        <p className="MV_Heading">Vission</p>
-                        <p className="MV-content">To strive  to be a loading mining company in coming future keeping in mind the sustainable growth and improved performance</p>
+                        <p className="MV_Heading">Vision</p>
+                        <p className="MV-content">To strive  to be a leading mining company in coming future keeping in mind the sustainable growth and improved performance</p>
                     </section>
                 </section>
                 <img className="mv-img" src={minperson} alt="" />

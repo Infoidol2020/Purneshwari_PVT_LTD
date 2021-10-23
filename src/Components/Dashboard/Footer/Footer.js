@@ -57,8 +57,8 @@ const handlefb = () => {
                 <span style={{cursor:'pointer'}}>
                 <p className="footer-fb"  onClick={handlefb} ><FacebookIcon className="facebook-icon"/>&nbsp;Facebook</p></span>
                 <div className="footer-call">
-                    <p style={{marginBottom:'0.5rem'}}><CallIcon/>&nbsp;7000502696</p>
-                    <p><CallIcon/>&nbsp;8280063216</p>
+                    <p className="footer-call1" style={{marginBottom:'0.5rem'}}><CallIcon/>&nbsp;7000502696</p>
+                    <p className="footer-call2"><CallIcon/>&nbsp;8280063216</p>
                 </div>
                 <p className="footer-mail"><MailIcon/>&nbsp;purneshwarippltd@gmail.com</p>
                 <p className="footer-loc"><LocationOnIcon/>&nbsp; TTT/10, Civil Township, P.S-Raghunath Palli, Dist-Sundargarh, Rourkela,Orissa,INDIA,769004</p>
